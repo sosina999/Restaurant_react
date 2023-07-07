@@ -33,9 +33,8 @@ const Gallery = () => {
 
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
           {" "}
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias
-          atque necessitatibus ab aliquam, possimus minima omnis, reprehenderit
-          placeat
+          
+Welcome to our captivating photo gallery, where we invite you to visually immerse yourself in the delightful world of Gericht. 
         </p>
         <button type="button" className="custom__button">
           Viem More
